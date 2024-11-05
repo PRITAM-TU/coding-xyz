@@ -1,6 +1,12 @@
 #body_1
 {
     background-image: url('https://gratisography.com/wp-content/uploads/2024/01/gratisography-reindeer-dog-1170x780.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+    background-repeat: no-repeat;
+
+
 
 }
 #first
