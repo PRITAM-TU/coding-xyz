@@ -1,0 +1,120 @@
+#body_1
+{
+    background-image: url('https://gratisography.com/wp-content/uploads/2024/01/gratisography-reindeer-dog-1170x780.jpg');
+
+}
+#first
+{
+    
+    color: bisque;
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: 100px;
+    border:5px solid rebeccapurple;
+    border-top-color: darkgoldenrod;
+    border-right-color: #ffffff;
+    border-bottom-color: cadetblue;
+    width: 300px;
+    padding: 10px 5px 10px 20px;
+    border-radius: 10px;
+ 
+
+}
+#second
+{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    color: rgb(168, 251, 251);
+    border: 5px solid #ffff;
+    border-radius: 20px;
+    border-top-color: blue;
+    border-left-color: hsl(63, 37%, 68%);
+    border-right-color: aqua;
+    border-bottom-color: chartreuse;
+    width: 400px;
+    height: 250px;
+    padding:20px 10px 0px 20px ;
+    margin-top: -280px;
+    margin-left: 1050px;
+    margin-right: 1000px;
+    margin-bottom: 10px;
+
+
+
+}
+#third
+{
+   font-size: 35px;
+    font-style: oblique;
+    forced-color-adjust: auto;
+    
+    border: 5px solid rgb(151, 51, 153);
+    color: rgb(230, 228, 231);
+    height: 440px;
+    border-radius: 20px;
+    border-top-color: crimson;
+    border-right-color: darkred;
+    border-bottom-color: deeppink;
+    width: 220px;
+    padding: 20px 10px 0px 50px;
+    margin-top:px;
+    
+   
+
+    
+
+
+}
+#heading
+{
+       color: hsl(0, 100%, 94%);
+       font-size: 100px;
+       border:5px solid #a7acbd;
+       padding:20px 0px 30px 40px;
+       margin-top:50px;
+       margin-left: 360px;
+       margin-right: 450px;
+       border-radius: 23px;
+
+
+      
+}
+#importent
+{
+    color: #34d2d0;
+    font-size: 35px;
+    font-style:oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+    padding: 100px 20px 30px 40px;
+    margin-top: 220px;
+    margin-left: -400px;
+
+}
+#form
+{color: hsl(322, 74%, 34%);
+    font-size: 20px;
+    font-style: initial;
+    font-family: 'Times New Roman', Times, serif;
+    font: display 100px;
+    border: 7px solid rgb(156, 179, 178);
+background-image: url('https://gratisography.com/wp-content/uploads/2024/01/gratisography-cyber-kitty-1170x780.jpg');
+border-end-end-radius: 20px;
+border-top-left-radius: 20px;
+width: 500px;
+height: 500px;
+padding:20px 30px 40px 5px;
+margin-left: 420px;
+margin-top:-800px;
+margin-right: 100px;
+border-top-color: aqua;
+border-left-color: blue;
+border-right-color: #bec82d;
+border-bottom-color: #ffffff;
+
+
+
+}
